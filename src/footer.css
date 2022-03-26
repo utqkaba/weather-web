@@ -1,0 +1,33 @@
+.Footer{
+    text-align: center;
+    margin-top: 1rem;
+    padding: 0.1rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: small;
+}
+
+.Footer a {
+    color: black;
+}
+
+.Footer a:hover {
+    color: #ff1f8f
+}
+
+/* .name {
+    color: black;
+}
+
+.name:hover {
+    color: #ff1f8f;
+} */
+
+hr.style {
+    border: 0;
+    height: 0;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
