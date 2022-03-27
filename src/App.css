@@ -96,6 +96,11 @@ span {
 
 .data {
   text-align: center;
+  /* border: 2px solid #ff1f8f;
+  margin-left: 50px;
+  border-radius: 12px;
+  font-size: 16px;
+  background-color: white; */
 }
 
 .date {
